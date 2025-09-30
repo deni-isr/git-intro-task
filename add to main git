@@ -1,0 +1,4 @@
+git merge admin-page
+git add (file name)
+git commit -m ""
+git push origin main
